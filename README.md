@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou **Ivan Lana**
+<img src="banner.png" width="100%">
+
+# 👋 Opa, me chamo **Ivan Lana**
 
 💼 **Engenheiro de Software**  
 🔹 Backend | Engenharia de Dados | Cloud | IA aplicada  
