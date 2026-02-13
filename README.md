@@ -1,4 +1,4 @@
-<img src="banner.jpg" width="100%" alt="Ivan Lana Banner" />
+<img src="bannerr.jpg" width="100%" alt="Ivan Lana Banner" />
 
 # 👋 Opa, me chamo **Ivan Lana**
 
