@@ -1,6 +1,6 @@
 <img src="bannerr.jpg" width="100%" alt="Ivan Lana Banner" />
 
-# 👋 Opa, me chamo **Ivan Lana**
+# Opa, me chamo **Ivan Lana**
 
 💼 **Engenheiro de Software**  
 🔹 Backend | Engenharia de Dados | Cloud | IA aplicada  
