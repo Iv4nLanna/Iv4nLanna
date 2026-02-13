@@ -1,57 +1,50 @@
-# 👋 Hi, I'm Ivan Lana
+# 👋 Olá, eu sou Ivan Lana
 
-💼 Software Engineer  
-🔹 Backend | Data Engineering | Cloud  
+💼 Engenheiro de Software  
+🔹 Backend | Engenharia de Dados | Cloud | IA aplicada  
 🔹 .NET | Python | SQL | React | Angular
 
-I build scalable systems, APIs and data pipelines that solve real business problems.
+Desenvolvo sistemas escaláveis, APIs, pipelines de dados e soluções inteligentes utilizando IA para automatizar processos e gerar valor real para o negócio.
+
+Tenho foco em arquitetura, código limpo, performance e uso prático de IA no dia a dia de desenvolvimento.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Stack Principal
 
-Backend  
-C# .NET • Python • FastAPI • REST APIs
+### 💻 Backend
+C# .NET • Python • FastAPI • APIs REST • Microsserviços • MVC
 
-Frontend  
+### 🌐 Frontend
 React • Angular • TypeScript • JavaScript
 
-Data  
-SQL • PostgreSQL • Pandas • ETL • Data Modeling
+### 📊 Dados
+SQL/PLSQL • PostgreSQL • Pandas • ETL • Modelagem de dados • Pipelines
 
-Cloud & DevOps  
-Azure • Docker • Git • Linux
+### 🤖 IA & Automação
+Integração com LLMs (OpenAI) • Prompt Engineering • Análise de dados • Automação de tarefas • IA aplicada a sistemas
 
----
-
-## 🚀 Featured Projects
-
-### 🚐 Route Optimizer SaaS (Fullstack)
-Fullstack system that calculates optimized routes for school transportation.
-
-.NET/Python • React/Angular • PostgreSQL • Docker
+### ☁️ Cloud & DevOps
+Azure • Docker • Git • Linux • CI/CD
 
 ---
 
-### 📊 Data Pipeline ETL
-Automated ETL pipeline ingesting external data, transforming with Pandas and loading into SQL databases.
+## 📌 Projetos em Destaque
 
-Python • SQL • Docker • Azure
+### Palo Analyzer
+🔗 https://github.com/Iv4nLanna/Palo-Analyzer
 
----
+Sistema em Python para análise automatizada do Teste Palográfico com visão computacional clássica, regras auditáveis e interface desktop.
 
-### 🔧 Professional REST API Template
-Production-ready API with clean architecture, tests, auth and documentation.
+**Stack:** Python, OpenCV, NumPy, Scikit-learn, Tkinter, GitHub Actions
 
-.NET / FastAPI • JWT • Swagger • Docker
 
----
+## 🎯 Foco
+Software Engineering • Data Engineering • Cloud Systems • Distributed Architectures • IA
 
-## 🎯 Focus
-Backend Engineering • Data Engineering • Cloud Systems • Distributed Architectures
 
 ---
 
-## 📫 Contact
-LinkedIn:  
-Email:
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/ivan-lana/
+Email: ivanlana2000@gmail.com
