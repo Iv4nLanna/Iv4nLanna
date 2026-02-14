@@ -1,25 +1,25 @@
 <img src="bannerr.jpg" width="100%" alt="Ivan Lana Banner" />
 
-# Opa, me chamo **Ivan Lana**
+# Hey, my name is **Ivan Lana**
 
-💼 **Engenheiro de Software**  
-🔹 Backend | Engenharia de Dados | Cloud | IA aplicada  
+💼 **Software Engineer**  
+🔹 Backend | Data Engineering | Cloud | Applied AI  
 🔹 .NET | Python | SQL | React | Angular  
 
-Desenvolvo **sistemas escaláveis, APIs, pipelines de dados e soluções inteligentes**, utilizando IA para automatizar processos e gerar valor real para o negócio.
+I develop **scalable systems, APIs, data pipelines and intelligent solutions**, using AI to automate processes and generate real business value.
 
-Tenho foco em **arquitetura, código limpo, performance e uso prático de IA no dia a dia de desenvolvimento**.
+I focus on **architecture, clean code, performance and the practical use of AI in day-to-day development**.
 
 ---
 
-## 🚀 Stack Principal
+## 🚀 Main Stack
 
 ### 💻 Backend
 ![.NET](https://img.shields.io/badge/C%23%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 
-C# .NET • Python • FastAPI • APIs REST • Microsserviços • MVC
+C# .NET • Python • FastAPI • REST APIs • Microservices • MVC
 
 ---
 
@@ -33,20 +33,20 @@ React • Angular • TypeScript • JavaScript
 
 ---
 
-### 📊 Dados
+### 📊 Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-SQL/PLSQL • PostgreSQL • Pandas • ETL • Modelagem de dados • Pipelines
+SQL/PLSQL • PostgreSQL • Pandas • ETL • Data modeling • Pipelines
 
 ---
 
-### 🤖 IA & Automação
+### 🤖 AI & Automation
 ![IA](https://img.shields.io/badge/AI%20Solutions-FF6F61?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
-Integração com LLMs • Prompt Engineering • Análise de dados • Automação de tarefas • IA aplicada a sistemas
+Integration with LLMs • Prompt Engineering • Data analysis • Task automation • AI applied to systems
 
 ---
 
@@ -60,23 +60,23 @@ Azure • Docker • Git • Linux • CI/CD
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
 ### 🧠 Palo Analyzer
 🔗 https://github.com/Iv4nLanna/Palo-Analyzer  
 
-Sistema em Python para **análise automatizada do Teste Palográfico**, utilizando visão computacional clássica, regras auditáveis e interface desktop.
+Python system for **automated analysis of the Palographic Test**, using classical computer vision, auditable rules, and a desktop interface.
 
 **Stack:** Python • OpenCV • NumPy • Scikit-learn • Tkinter • GitHub Actions
 
 ---
 
-## 🎯 Foco
-**Software Engineering • Data Engineering • Cloud Systems • Distributed Architectures • IA**
+## 🎯 Focus
+**Software Engineering • Data Engineering • Cloud Systems • Distributed Architectures • AI**
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 💼 LinkedIn: https://www.linkedin.com/in/ivan-lana/  
 📧 Email: ivanlana2000@gmail.com
 
