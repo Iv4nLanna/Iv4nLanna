@@ -74,7 +74,8 @@ Python system for **automated analysis of the Palographic Test**, using classica
 
 SaaS platform for daily school-van route optimization, with one-click planning, student status tracking, manual stop reordering (drag-and-drop), ETA per stop, and operational/financial impact metrics.
 
-Stack: FastAPI • SQLAlchemy • Next.js • TypeScript • Tailwind CSS • SQLite/PostgreSQL • OpenRouteService • Docker • Pyte
+**Stack:** FastAPI • SQLAlchemy • Next.js • TypeScript • Tailwind CSS • SQLite/PostgreSQL • OpenRouteService • Docker • Pytest
+
 ---
 
 ## 🎯 Focus
