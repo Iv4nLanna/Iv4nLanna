@@ -83,11 +83,7 @@ SaaS platform for daily school-van route optimization, with one-click planning, 
 ATS-focused resume optimization platform that compares CVs against job descriptions and rewrites summaries/experience with **factual safety**, **keyword alignment**, and a **chunking pipeline** tuned for low-cost LLMs.
 
 **Stack:** FastAPI • React • Vite • Python • pypdf • fpdf2 • Groq/OpenRouter/Gemini APIs • JSON Schema### 📄 ATS Adapter
-🔗 https://github.com/Iv4nLanna/ATS-ADAPTER
 
-ATS-focused resume optimization platform that compares CVs against job descriptions and rewrites summaries/experience with **factual safety**, **keyword alignment**, and a **chunking pipeline** tuned for low-cost LLMs.
-
-**Stack:** FastAPI • React • Vite • Python • pypdf • fpdf2 • Groq/OpenRouter/Gemini APIs • JSON Schema
 
 ---
 
