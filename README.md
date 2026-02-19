@@ -4,7 +4,7 @@
 
 💼 **Software Engineer**  
 🔹 Backend | Data Engineering | Cloud | Applied AI  
-🔹 .NET | Python | SQL | React | Angular  
+🔹 .NET | Python | SQL | React | Angular | GO  
 
 I develop **scalable systems, APIs, data pipelines and intelligent solutions**, using AI to automate processes and generate real business value.
 
