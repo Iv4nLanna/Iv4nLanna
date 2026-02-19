@@ -2,7 +2,7 @@
 
 # Hey, my name is **Ivan Lana** :D
 
-💼 **Software Engineer**  
+💼 **Software Engineer / IA Engineer**  
 🔹 Backend | Data Engineering | Cloud | Applied AI  
 🔹 .NET | Python | SQL | React | Angular | GO  
 
