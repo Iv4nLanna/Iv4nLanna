@@ -1,6 +1,6 @@
 <img src="bannerr.jpg" width="100%" alt="Ivan Lana Banner" />
 
-# Hey, my name is **Ivan Lana**
+# Hey, my name is **Ivan Lana** :D
 
 💼 **Software Engineer**  
 🔹 Backend | Data Engineering | Cloud | Applied AI  
